@@ -32,7 +32,7 @@ A API possui caminhos de GET, POST, PUT E DELETE para account, GET para statemen
 
 `PUT` - A rota recebe o parâmetro `name` no corpo da requisição e `cpf` nos headers. O parâmetro passado no corpo substituirá o já existente na conta selecionada.
 
-`DELETE` - Rrecebe apenas o parâmetro `cpf` nos headers. Esse método exclui a conta selecionada.
+`DELETE` - Recebe apenas o parâmetro `cpf` nos headers. Esse método exclui a conta selecionada.
 
 ### 📰 Rotas de extrato ('/statement')
 
